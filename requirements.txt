@@ -1,0 +1,5 @@
+# Software dependencies (all are pre-installed on Google Colab)
+# No additional installations required.
+
+# Hardware recommendation:
+# Running with a T4 GPU on Google Colab is recommended for optimal performance.
