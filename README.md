@@ -6,7 +6,7 @@ This repository contains a Jupyter Notebook that is recommended to run on Google
 
 ### Hardware Recommendation
 
-For best performance, it is recommended to use a **T4 GPU** on Google Colab. This can be set by going to `Runtime > Change runtime type` and selecting **GPU** as the hardware accelerator.
+For best performance, it is recommended to use a **T4 or higher GPU** Google Colab. This can be set by going to `Runtime > Change runtime type` and selecting **GPU** as the hardware accelerator.
 
 ### Running on Google Colab
 
