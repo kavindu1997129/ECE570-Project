@@ -1,5 +1,12 @@
 # Software dependencies (all are pre-installed on Google Colab)
 # No additional installations required.
 
+# These libraries have been used in the code
+torch==1.9.0
+numpy==1.21.2
+torchvision==0.10.0
+tqdm==4.62.3
+matplotlib==3.4.3
+
 # Hardware recommendation:
 # Running with a T4 GPU on Google Colab is recommended for optimal performance.
